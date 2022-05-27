@@ -10,5 +10,5 @@ those two leds are simulation for any actuators
 
 
 Here is schmatic with simulation
-![Green is on at 25 C](https://user-images.githubusercontent.com/87039861/170726766-844efe9a-da70-4cf1-8f02-c709d2d46a12.png)
-![Red is on above 25 C](https://user-images.githubusercontent.com/87039861/170726771-843973c8-f16d-4062-a6b1-0e112f141d8a.png)
+
+![Hnet-image](https://user-images.githubusercontent.com/87039861/170731130-d4f0a20f-6e59-4ab8-b917-275f58ff34a1.gif)
